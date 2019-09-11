@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BangunRuang</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="hitung">Hitung</string>
+    <string name="jari_jari">Jari - jari</string>
+    <string name="hasil1">Hasil</string>
+    <string name="hasil2">Hasil</string>
+    <string name="hasil3">Hasil</string>
+    <string name="hasil" />
+    <string name="bola">Bola</string>
+    <string name="volume_bangun_ruang">Volume Bangun Ruang</string>
+    <string name="tabung">Tabung</string>
+    <string name="kerucut">Kerucut</string>
+    <string name="about_us">About us</string>
+    <string name="created_by">CREATED BY</string>
+    <string name="lala">...</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="m_rama_wicaksono_1717051062">M. Rama Wicaksono - 1717051062</string>
+    <string name="alifia_intan_a_n_1717051028">Alifia Intan A.N - 1717051028</string>
+    <string name="gofariyanti_d_1717051048">Gofariyanti D - 1717051048</string>
+    <string name="indah_m_pasaribu_1617051105">Indah M Pasaribu - 1617051105</string>
+</resources>

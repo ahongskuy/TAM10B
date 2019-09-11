@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="hasil2" type="id" />
+    <item name="edt_tinggi" type="id" />
+    <item name="hasil1" type="id" />
+    <item name="edt_jari" type="id" />
+    <item name="btn_hitung" type="id" />
+    <item name="hasil3" type="id" />
+</resources>
